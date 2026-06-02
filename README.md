@@ -3,6 +3,9 @@
 ## Descrição do Projeto
 Este repositório contém uma Análise Exploratória de Dados (EDA) focada em um dataset de transações bancárias. O objetivo do projeto foi extrair *insights* sobre o comportamento dos clientes, identificar padrões de gastos, analisar distribuições e detectar anomalias que podem ser úteis para modelagem preditiva ou sistemas de detecção de fraude.
 
+## Fonte dos Dados
+Os dados utilizados nesta análise foram obtidos a partir do Kaggle: [Bank Transactions Data](https://www.kaggle.com/datasets/luisfernandolfss/bank-transactions-data-2).
+
 ## Ferramentas e Bibliotecas Utilizadas
 * **Linguagem:** Python
 * **Manipulação e Análise de Dados:** Pandas
